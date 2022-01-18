@@ -1,2 +1,2 @@
-# PJS4-Recette2022
-Voici notre PJS4.
+## COMPTE RENDU DU 18 AVEC LE PROFESSEUR  
+- [x] 
