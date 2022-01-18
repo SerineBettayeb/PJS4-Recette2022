@@ -8,3 +8,5 @@
 - faire un git (code + document)
 - les tâches de formation 
 - API on part de l'appli Serveur
+- techno mobile : flutter -> dart (à voir)
+- techno back (serveur et services) : javaEE / C#
