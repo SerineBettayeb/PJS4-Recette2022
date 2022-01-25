@@ -14,5 +14,5 @@
 
 
 # COMPTE RENDU DU 25 JANVIER 
-- Création du  trello : mise en place de tout les services et de toutes les pages. 
+- Création du  trello : mise en place de tous les services et de toutes les pages. 
 - Création du design des pages. 
